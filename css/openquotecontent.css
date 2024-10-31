@@ -1,0 +1,45 @@
+/* A simple example for sytling the OpenQuote component HTML output*/
+#content div.openquote4wordpress table{
+margin: 0px; 
+border: 0px; 
+padding: 0px;
+}
+#content div.openquote4wordpress tr{
+margin: 0px; 
+border: 0px; 
+padding: 0px; 
+}
+#content div.openquote4wordpress td{
+margin: 0px; 
+border: 0px; 
+padding: 0px; 
+}
+
+#content div.openquote4wordpress tr.portlet-section-header{
+color: #323232; 
+font-size: 120%;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 0px;
+}
+
+#content div.openquote4wordpress td.portlet-msg-error{
+color: red; 
+font-weight: bold;
+}
+
+#content div.openquote4wordpress tr.portlet-section-subheader{
+color: #323232; 
+margin-bottom: 10px;
+font-size: 100%;
+font-weight: bold;
+letter-spacing: 0px;
+}
+
+#content div.openquote4wordpress tr.portlet-table-subheader{
+color: #323232; 
+margin-bottom: 10px;
+font-size: 120%;
+font-weight: bold;
+letter-spacing: 0px;
+}
